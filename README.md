@@ -20,8 +20,8 @@
 |Apostrophes|
 |`\w\K\x{02BC}(?=\w)`		|		`~’`|
 |Attraper ce qui est entre des parenthèses (avec et sans inclure les parenthèses)|
-|`sans : 	\([^)]+\)`|
-|`avec : 	(?<=\()[^)]+`|
+|sans : `	\([^)]+\)` avec : 	`(?<=\()[^)]+`|
+
  
 
 
